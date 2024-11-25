@@ -27,12 +27,14 @@ There are:
   - 3 Multi-layer Perceptron models
   - 3 VGG11 Convolutional Neural Network models
 
-The folder can be downloaded in google drive as stated above.  
+The folder can be downloaded from google drive as stated above.  
   
 ***-data:***   
 
 data is a folder that contains all of the CIFAR10 dataset used in this project.  
 It is from this folder that we retrieve our subsets.  
+
+The folder can be downloaded from google drive as stated above.
 
 ***-Main_Driver.py:***  
 
