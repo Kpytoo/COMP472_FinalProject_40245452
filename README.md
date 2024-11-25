@@ -6,7 +6,7 @@ To retrieve the saved models, follow this google drive link: https://drive.googl
 
 To retrieve the CIFAR10 data, follow this google drive link: https://drive.google.com/drive/folders/1wtWHP34Na-FT0SIB5ct9Y_ZDAYrYbcqW?usp=share_link    
 
-Please download both files since my code uses them for the project.
+Please download both folders since my code uses them for the project.
 
 ***-Why are they in google drive?***  
 Because the files are too big to be uploaded to github, and google drive
