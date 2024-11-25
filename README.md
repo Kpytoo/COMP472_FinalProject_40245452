@@ -85,7 +85,9 @@ The *Main_Driver.py* file will pre-process the dataset as needed.
 
 ### Steps for running the code to train, evaluate, and apply the models.  
 
-To run the code for training, make sure to *UNCOMMENT* lines 168, 179, 196, 207.  
+To run this code, only execute the *Main_Driver.py* file.
+
+To run the code for training, make sure to *UNCOMMENT* lines 168, 179, 196, 207 inside *Main_Driver.py*.  
 These lines use the training functions for each model and their variants.  
 
 If you wish to just evaluate the models, keep the above mentioned lines *COMMENTED* and simply run the *Main_Driver.py* file.  
