@@ -72,16 +72,27 @@ It contains the train method that trains all models.
 It also contains the testing method for all models.  
 It finally contains a display method that displays the metric of all models.  
 
+---
 
+### Outline of steps to execute the code for data pre-processing.  
 
-
-
+To execute the code for data pre-processing, all you have to do is run the *Main_Driver.py* file.  
+Make sure you have all the necessary python packages installed before doing so.  
+Make sure you have both the *Saved_Models* and *data* folders before proceeding.  
+The *Main_Driver.py* file will pre-process the dataset as needed.  
 
 ---
 
-### Outline of steps to execute the code for data pre-processing.
+### Steps for running the code to train, evaluate, and apply the models.  
 
----
+To run the code for training, make sure to *UNCOMMENT* lines 168, 179, 196, 207.  
+These lines use the training functions for each model and their variants.  
 
-### Steps for running the code to train, evaluate, and apply the models.
+If you wish to just evaluate the models, keep the above mentioned lines *COMMENTED* and simply run the *Main_Driver.py* file.  
+The application of the models are done automatically!  
+
+---  
+
+Thank you for reading!
+
 
