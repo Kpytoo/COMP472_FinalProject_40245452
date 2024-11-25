@@ -20,7 +20,7 @@ Thank you for your understanding!
 
 ***-Saved_Models:***   
 
-Saved_Models is a folder that contains all of the saved trained models for this project.  
+*Saved_Models* is a folder that contains all of the saved trained models for this project.  
 There are:  
   - 2 Gaussian Naive Bayes models
   - 6 Decision Trees models
@@ -31,14 +31,14 @@ The folder can be downloaded from google drive as stated above.
   
 ***-data:***   
 
-data is a folder that contains all of the CIFAR10 dataset used in this project.  
+*data* is a folder that contains all of the CIFAR10 dataset used in this project.  
 It is from this folder that we retrieve our subsets.  
 
 The folder can be downloaded from google drive as stated above.
 
 ***-Main_Driver.py:***  
 
-Main_Driver.py is the main driver of this project.  
+*Main_Driver.py* is the main driver of this project.  
 It imports and creates subsets from the CIFAR10 dataset.   
 It uses Resnet18 to do feature extraction.  
 It use PCA to further reduce the size of the features.  
@@ -46,28 +46,28 @@ It then trains, tests and displays the metrics for each four models and their va
 
 ***-Gaussian_Naive_Baye_Models.py:***   
 
-Gaussian_Naive_Baye_Models.py contains the implementation of my personal Naive Baye model.  
+*Gaussian_Naive_Baye_Models.py* contains the implementation of my personal Naive Baye model.  
 It contains the train method that trains both my personal Naive Baye model and Scikit's Naive Baye model.  
 It also contains the testing methods for both models.  
 It finally contains a display method that displays the metric of both models.  
 
 ***-Decision_Tree_Models.py:***   
 
-Decision_Tree_Models.py contains the implementation of my personal Decision Tree model.  
+*Decision_Tree_Models.py* contains the implementation of my personal Decision Tree model.  
 It contains the train method that trains both my personal Decision Tree model and Scikit's Decision model and all the respective variants.  
 It also contains the testing methods for all models.  
 It finally contains a display method that displays the metric of all models.  
 
 ***-Multi_Layer_Perceptron_Models.py:***  
 
-Multi_Layer_Perceptron_Models.py contains the implementation of the base MLP and its variants.  
+*Multi_Layer_Perceptron_Models.py* contains the implementation of the base MLP and its variants.  
 It contains the train method that trains all models.  
 It also contains the testing method for all models.  
 It finally contains a display method that displays the metric of all models.  
 
 ***-Convolutional_Neural_Network_Models.py:*** 
 
-Convolutional_Neural_Network_Models.py contains the implementation of the base VGG11 model and its variants.  
+*Convolutional_Neural_Network_Models.py* contains the implementation of the base VGG11 model and its variants.  
 It contains the train method that trains all models.  
 It also contains the testing method for all models.  
 It finally contains a display method that displays the metric of all models.  
